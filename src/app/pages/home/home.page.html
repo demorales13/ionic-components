@@ -1,0 +1,32 @@
+<ion-header class="ion-no-border">
+
+  <ion-toolbar>
+    <!-- Forma manual de configurar el menú -->
+    <!-- <ion-buttons slot="start">
+      <ion-button (click)="toggleMenu()">
+        <ion-icon slot="icon-only" name="menu-outline"></ion-icon>
+      </ion-button>
+    </ion-buttons> -->
+
+    <ion-menu-button color="primary"
+                     slot="start"
+                     menu="right-menu">
+
+    </ion-menu-button>
+
+    <ion-title color="primary">Componentes</ion-title>
+  </ion-toolbar>
+
+</ion-header>
+
+<ion-content>
+  
+  <ion-list>
+    <ion-item *ngFor="let item of menuItems | async" 
+              [routerLink]="item.navigateTo" detail>
+      <ion-icon slot="start" color="primary" [name]="item.icon"></ion-icon>
+      <ion-label>{{item.name}}</ion-label>
+    </ion-item>
+  </ion-list>
+
+</ion-content>

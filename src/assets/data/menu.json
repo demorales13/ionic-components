@@ -1,0 +1,112 @@
+[
+    {
+      "icon": "american-football",
+      "name": "Action Sheet",
+      "navigateTo": "/action-sheet"
+    },
+    {
+      "icon": "chatbox-outline",
+      "name": "Alert",
+      "navigateTo": "/alert"
+    },
+    {
+      "icon": "beaker",
+      "name": "Avatar",
+      "navigateTo": "/avatar"
+    },
+    {
+      "icon": "radio-button-on",
+      "name": "Buttons and Router",
+      "navigateTo": "/buttons"
+    },
+    {
+      "icon": "card",
+      "name": "Cards",
+      "navigateTo": "/card"
+    },
+    {
+      "icon": "checkmark-circle-outline",
+      "name": "Checkbox",
+      "navigateTo": "/check"
+    },
+    {
+      "icon": "calendar",
+      "name": "DateTime",
+      "navigateTo": "/date"
+    },
+    {
+      "icon": "car",
+      "name": "Fab",
+      "navigateTo": "/fab"
+    },
+    {
+      "icon": "grid",
+      "name": "Grid - Rows",
+      "navigateTo": "/grid"
+    },
+    {
+      "icon": "infinite",
+      "name": "Infinite Scroll",
+      "navigateTo": "/infinite-scroll"
+    },
+    {
+      "icon": "hammer",
+      "name": "Input Forms",
+      "navigateTo": "/input"
+    },
+    {
+      "icon": "list",
+      "name": "List",
+      "navigateTo": "/list"
+    },
+    {
+      "icon": "reorder-four-outline",
+      "name": "List Reorder",
+      "navigateTo": "/list-reorder"
+    },
+    {
+      "icon": "refresh-circle",
+      "name": "Loading",
+      "navigateTo": "/loading"
+    },
+    {
+      "icon": "phone-portrait-outline",
+      "name": "Modal",
+      "navigateTo": "/modal"
+    },
+    {
+      "icon": "tablet-portrait-outline",
+      "name": "Popover",
+      "navigateTo": "/popover"
+    },
+    {
+      "icon": "code-working",
+      "name": "ProgressBar - Range",
+      "navigateTo": "/progress-bar"
+    },
+    {
+      "icon": "arrow-down-circle-outline",
+      "name": "Refresher",
+      "navigateTo": "/refresher"
+    },
+    {
+      "icon": "search-outline",
+      "name": "Searchbar",
+      "navigateTo": "/searchbar"
+    },
+    {
+      "icon": "copy-outline",
+      "name": "Segment",
+      "navigateTo": "/segments"
+    },
+    {
+      "icon": "albums-outline",
+      "name": "Slide",
+      "navigateTo": "/slides"
+    },
+    {
+      "icon": "cog-outline",
+      "name": "Tabs",
+      "navigateTo": "/tabs"
+    }
+ ]
